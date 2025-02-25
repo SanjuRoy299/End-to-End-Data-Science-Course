@@ -10,4 +10,4 @@ This repository contains resources, tutorials, and projects to help you learn Da
 
 | 🔥 Topic               | 📚 Resources & Links |
 |------------------------|---------------------|
-| **Full Stack Data Science**      | [Full Stack Data Science]([https://www.w3schools.com/python/](https://euron.one/course/full-stack-data-science?ref=7C9EDDAA) |
+| **Full Stack Data Science**      | [Full Stack Data Science](https://euron.one/course/full-stack-data-science?ref=7C9EDDAA) |
